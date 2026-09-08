@@ -4,16 +4,6 @@
 ## Introduction
 This repository aims to provide an automated tools, similar to [pqm4](https://github.com/mupq/pqm4) for benchmarking algorithms submitted to the New Generation Commercial Cryptography ([NGCC](https://niccs.org.cn/symmbzyjy/tzgg/pc/content/1976155884915003392/content_1976155884915003392.html)) issued by the Institute of Commercial Cryptography Standards (ICCS) in China.
 
-Authors: [Junhao Huang](https://github.com/JunhaoHuang), junhaohuang@smu.edu.sg, Singapore Management University.
-
---------------------
-## Clone and Dependencies
-
-Clone the repository through:
-```bash
-git clone --recursive-submodules https://github.com/UIC-ESLAS/EfficientSM3.git
-```
-This repository relies on [libopencm3(@87a080c)](https://github.com/libopencm3/libopencm3/tree/87a080c94ce67643216464821c752c1c406c6414) to provide M4-related supports.
 
 ## Set-up/Installation
 
